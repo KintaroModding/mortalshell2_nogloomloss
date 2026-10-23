@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "No Gloom Loss on Death",
+  "summary": "On death you lose only 10% of your Gloom instead of all of it, and that 10% still drops where you died, so your last death spot stays marked.",
+  "games": ["mortal-shell-ii"],
+  "tags": ["gameplay"],
+  "gameVersions": ["1.12.0"],
+  "cover": "docs/cover.png"
+}
